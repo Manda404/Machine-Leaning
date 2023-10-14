@@ -1,35 +1,39 @@
-Problem Description
+# Prédiction du Temps de Trajet au Travail : Projet d'Analyse Socio-Économique
 
-In social science research, census data plays a pivotal role in the examination of inequalities related to income, employment, education, housing, and various other aspects of life. These in-depth analyses naturally lead to discussions about potential bias in categorization within these fields. Census data, therefore, serves as a valuable resource for practical investigations into the fairness of algorithms.
+## Description du Problème
 
-In this project, the primary objective is to predict the commute time to work for each individual by leveraging comprehensive census data. This study offers the potential to gain a deeper understanding of socioeconomic disparities and provides essential insights to inform evidence-based policy decisions.
+Dans la recherche en sciences sociales, les données du recensement jouent un rôle essentiel dans l'examen des inégalités liées au revenu, à l'emploi, à l'éducation, au logement, et à divers autres aspects de la vie. Ces analyses approfondies conduisent naturellement à des discussions sur le potentiel de biais dans la catégorisation au sein de ces domaines. Ainsi, les données du recensement constituent une ressource précieuse pour des investigations pratiques sur l'équité des algorithmes.
 
-Dataset Overview
-The dataset at hand contains 130,801 instances, with each instance describing the travel time to work in minutes. These records are enriched with a variety of demographics and other metadata, offering a comprehensive view of each individual's background and circumstances. Below is a brief description of the key features within the dataset:
+**Dans ce projet**, l'objectif principal est de prédire le temps de trajet pour se rendre au travail pour chaque individu en utilisant des données complètes du recensement. Cette étude offre la possibilité d'acquérir une compréhension plus approfondie des disparités socio-économiques et fournit des informations essentielles pour éclairer les décisions politiques basées sur des preuves.
 
-COW (Class of worker): Information about an individual's employment status and type of work.
-SCHL (Educational attainment): Level of education achieved by the individual.
-MAR (Marital status): The marital status of the individual.
-OCCP (Occupation): Description of the occupation of the individual.
-POBP (Place of birth): The birthplace of the individual.
-WKHP (Usual hours worked per week in the past 12 months): Insights into an individual's work hours.
-SEX (Gender of the individual): Gender information.
-RAC1P (Recoded detailed race code): Classification of an individual's race or ethnicity.
-MIG (Mobility status): Mobility status information.
-HICOV (Health insurance coverage recode): Data on health insurance coverage.
-LANP (Language spoken at home): Information on the language spoken at home.
-PAOC (Presence and age of own children): Details about the presence and age of the individual's own children.
-PINCP (Total person’s income): Information about an individual's income.
-PUBCOV (Public health coverage recode): Public health coverage details.
-VPS (Veteran period of service): Insights into an individual's veteran service period.
-DEAR (Hearing difficulty): Information regarding hearing difficulties.
-MIL (Military service): Data about military service.
-MIGSP (Migration recode - State or foreign country code): Details about migration.
-FER (Gave birth to a child within the past 12 months): Information about recent childbirth.
-ENG (Ability to speak English): Insights into an individual's ability to speak English.
-JWAP (Time of arrival at work - hour and minute): The time when an individual arrives at work.
-JWDP (Time of departure for work - hour and minute): The time when an individual departs for work.
-OC (Own child): Information about owning a child.
-FDEYEP (Vision difficulty allocation flag): Information regarding vision difficulties.
-JWMNP (Commute time to work): The time it takes for an individual to commute to work in minutes.
-This dataset provides a rich source of information for studying and making inferences about various aspects of an individual's life and experiences.
+### Aperçu du Jeu de Données
+
+Le jeu de données comprend **130 801 instances**, chacune décrivant le temps de trajet pour se rendre au travail en minutes. Ces enregistrements sont enrichis d'une variété de données démographiques et d'autres métadonnées, offrant une vue complète de l'arrière-plan et des circonstances de chaque individu. Voici une brève description des principales caractéristiques du jeu de données :
+
+- **COW (Classe de travailleur) :** Informations sur le statut d'emploi et le type de travail de l'individu.
+- **SCHL (Niveau d'éducation atteint) :** Niveau d'éducation atteint par l'individu.
+- **MAR (État civil) :** L'état civil de l'individu.
+- **OCCP (Profession) :** Description de la profession de l'individu.
+- **POBP (Lieu de naissance) :** Le lieu de naissance de l'individu.
+- **WKHP (Heures habituelles travaillées par semaine au cours des 12 derniers mois) :** Informations sur les heures de travail habituelles de l'individu.
+- **SEX (Genre de l'individu) :** Information sur le genre.
+- **RAC1P (Code de race ou d'origine ethnique recodé en détail) :** Classification de la race ou de l'origine ethnique de l'individu.
+- **MIG (Statut de mobilité) :** Informations sur le statut de mobilité.
+- **HICOV (Recode de la couverture d'assurance maladie) :** Données sur la couverture d'assurance maladie.
+- **LANP (Langue parlée à la maison) :** Informations sur la langue parlée à la maison.
+- **PAOC (Présence et âge des propres enfants) :** Détails sur la présence et l'âge des propres enfants de l'individu.
+- **PINCP (Revenu total de la personne) :** Informations sur le revenu de l'individu.
+- **PUBCOV (Recode de la couverture d'assurance maladie publique) :** Détails sur la couverture d'assurance maladie publique.
+- **VPS (Période de service de vétéran) :** Informations sur la période de service de vétéran de l'individu.
+- **DEAR (Problèmes d'audition) :** Informations sur les problèmes d'audition.
+- **MIL (Service militaire) :** Données sur le service militaire.
+- **MIGSP (Recode de la migration - Code de l'État ou du pays étranger) :** Détails sur la migration.
+- **FER (A donné naissance à un enfant au cours des 12 derniers mois) :** Informations sur la récente naissance d'un enfant.
+- **ENG (Capacité à parler anglais) :** Informations sur la capacité à parler anglais.
+- **JWAP (Heure d'arrivée au travail - heure et minute) :** L'heure à laquelle un individu arrive au travail.
+- **JWDP (Heure de départ pour le travail - heure et minute) :** L'heure à laquelle un individu quitte le travail.
+- **OC (Propre enfant) :** Informations sur la possession d'un enfant.
+- **FDEYEP (Drapeau d'attribution des problèmes de vision) :** Informations sur les problèmes de vision.
+- **JWMNP (Temps de trajet pour se rendre au travail) :** Le temps qu'il faut à un individu pour se rendre au travail, en minutes.
+
+Ce jeu de données constitue une source riche d'informations pour étudier et tirer des conclusions sur divers aspects de la vie et des expériences individuelles.
