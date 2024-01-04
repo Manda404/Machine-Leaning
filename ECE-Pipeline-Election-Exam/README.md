@@ -1,5 +1,5 @@
 <div style="text-align:center">
-    <img src="Architecture.jpeg" alt="Texte de remplacement" width="600"/>
+    <img src="Architecture.jpeg" alt="Texte de remplacement" width="800"/>
 </div>
 
 
