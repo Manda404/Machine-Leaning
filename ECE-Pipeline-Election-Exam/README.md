@@ -31,7 +31,41 @@ Nous avons utilisé Kafka pour stocker les données collectées. Les données su
 
 ## Traitement des Données
 
-Les données telles que celles du recensement, de l’emploi et du logement sont traitées à l’aide d'un job Spark. Les données des résultats des 1ers et 2èmes tours, localement récoltées, sont envoyées dans Kafka à partir d'un script Python. Une fois dans Kafka, elles sont récupérées et traitées dans Spark.
+Les données, telles que celles du recensement, de l'emploi et du logement, sont traitées à l'aide de jobs Spark. Le processus de traitement implique la récupération des données présentes dans des topics distincts de notre broker local, le traitement de ces données, puis le dépôt dans des tables appropriées. Voici un exemple :
+
+- **Topic :** `Topic_Resultat_TourT1`
+  - **Description :** Données des élections du premier tour
+  - **Traitement :** Job Spark appelé `JobSparkResultatT1.py`
+  - **Destination :** Table `resultat_tourT1`
+
+Les données telles que celles du recensement, de l’emploi et du logement sont traitées à l’aide de job Spark. 
+
+### Flux de Traitement
+
+ +----------------------+              +-------------------+              +-----------------------------+
+ |                      |              |                   |              |                             |
+ |   Topic_Recensement  +------------->+ JobSparkRecensement+------------>+ Table: resultat_recensement |
+ |                      |              |                   |              |                             |
+ +----------------------+              +-------------------+              +-----------------------------+
+
+ +----------------------+              +----------------+               +------------------------+
+ |                      |              |                |               |                        |
+ |   Topic_Emploi       +------------->+ JobSparkEmploi +-------------->+ Table: resultat_emploi |
+ |                      |              |                |               |                        |
+ +----------------------+              +----------------+               +------------------------+
+
+ +----------------------+              +----------------+                +--------------------------+
+ |                      |              |                |                |                          |
+ |   Topic_Logement     +------------->+ JobSparkLogement+-------------->+ Table: resultat_logement |
+ |                      |              |                |                |                          |
+ +----------------------+              +----------------+                +--------------------------+
+
+Ces données sont récupérées depuis des topics distincts de notre broker local, traitées, puis déposées dans des tables appropriées. Par exemple :
+
+- Les données du premier tour des élections, présentes dans le topic `Topic_Resultat_TourT1`, sont traitées par notre job Spark appelé `JobSparkResultatT1.py` et stockées dans la table `resultat_tourT1`.
+
+Vous pouvez ajuster les noms des tables, des topics et des jobs selon votre structure spécifique. Cette représentation graphique ajoute une dimension visuelle pour faciliter la compréhension du flux de traitement des données.
+
 
 ## Apache Spark
 
