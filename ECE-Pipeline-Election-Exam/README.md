@@ -44,11 +44,13 @@ Les données issues du recensement, de l'emploi et du logement sont traitées ef
 Les données telles que celles du recensement, de l’emploi et du logement sont traitées à l’aide de job Spark. 
 
 ### Flux de Traitement
-
+<div style="text-align:center">
+    <img src="Flux.jpeg" alt="Texte de remplacement" width="800"/>
+</div>
 
 ## Base de Données PostgreSQL
 
-La base de données PostgreSQL joue un rôle essentiel dans le stockage des données traitées de notre projet d'analyses des élections présidentielles en France. Les informations stockées dans cette base de données sont cruciales pour notre processus d'analyse.
+La base de données PostgreSQL joue un rôle crucial dans le stockage des données traitées. Grâce à ces données, nous avons élaboré deux modèles de données pour faciliter l'accès et l'analyse des informations.
 
 ### Data Models
 
@@ -56,7 +58,19 @@ Nous avons élaboré deux data models pour faciliter l'accès aux données et si
 
 Les data models comprennent des tables telles que `Dim_candidats`, `Dim_departement`, et `Fact_vote`, interconnectées de manière à fournir une compréhension complète des résultats électoraux. Ces modèles offrent une base solide pour des requêtes sophistiquées et des analyses approfondies.
 
-En résumé, la base de données PostgreSQL et les data models associés constituent un élément clé de notre infrastructure, permettant une exploration efficace et une compréhension approfondie des résultats des élections présidentielles en France.
+Les deux modèles de données, organisés de manière cohérente, sont les suivants :
+
+1. **Modèle de Données pour les Résultats du 1er Tour :**
+   - **Dim_candidats_T1 :** Table contenant des informations sur les candidats avec des clés primaires comme `COD_CANDIDAT`.
+   - **Dim_departement_T1 :** Table contenant des informations sur les départements avec des clés primaires comme `COD_DEP`.
+   - **Fact_vote_T1 :** Table principale contenant les résultats du 1er tour, liée aux tables `Dim_candidats_T1` et `Dim_departement_T1`.
+
+2. **Modèle de Données pour les Résultats du 2ème Tour :**
+   - **Dim_candidats_T2 :** Table contenant des informations sur les candidats avec des clés primaires comme `COD_CANDIDAT`.
+   - **Dim_departement_T2 :** Table contenant des informations sur les départements avec des clés primaires comme `COD_DEP`.
+   - **Fact_vote_T2 :** Table principale contenant les résultats du 2ème tour, liée aux tables `Dim_candidats_T2` et `Dim_departement_T2`.
+
+Ces modèles de données organisés simplifient l'accès et l'analyse des résultats des élections présidentielles, offrant une structure claire pour explorer et comprendre les données stockées dans la base PostgreSQL.
 
 ## Liaisons entre les Tables
 
@@ -69,3 +83,7 @@ COD_CANDIDAT INT DEFAULT nextval('cod_candidat_seq') PRIMARY KEY,
 
 -- Exemple de colonne pour la liaison dans Dim_departement
 COD_DEP INT DEFAULT nextval('cod_dep_sequence') PRIMARY KEY,
+
+<div style="text-align:center">
+    <img src="dataModel.jpeg" alt="Texte de remplacement" width="800"/>
+</div>
