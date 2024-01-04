@@ -75,7 +75,7 @@ Ces modèles de données organisés simplifient l'accès et l'analyse des résul
 ## Liaisons entre les Tables
 
 <div style="text-align:center">
-    <img src="dataModel.jpeg" alt="Texte de remplacement" width="600"/>
+    <img src="dataModel.jpeg" alt="Texte de remplacement" width="300"/>
 </div>
 
 Pour le data modèle 1er tour, la liaison entre les tables est faite comme suit :
