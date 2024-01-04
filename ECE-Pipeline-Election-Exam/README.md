@@ -74,6 +74,10 @@ Ces modèles de données organisés simplifient l'accès et l'analyse des résul
 
 ## Liaisons entre les Tables
 
+<div style="text-align:center">
+    <img src="dataModel.jpeg" alt="Texte de remplacement" width="800"/>
+</div>
+
 Pour le data modèle 1er tour, la liaison entre les tables est faite comme suit :
 - `Dim_candidats` et `Dim_departement` sont liées à la table `Fact_vote` par les clés `COD_CANDIDAT` et `COD_DEP`.
 
@@ -83,7 +87,3 @@ COD_CANDIDAT INT DEFAULT nextval('cod_candidat_seq') PRIMARY KEY,
 
 -- Exemple de colonne pour la liaison dans Dim_departement
 COD_DEP INT DEFAULT nextval('cod_dep_sequence') PRIMARY KEY,
-
-<div style="text-align:center">
-    <img src="dataModel.jpeg" alt="Texte de remplacement" width="800"/>
-</div>
