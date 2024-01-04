@@ -25,6 +25,10 @@ Exemples de sources de données :
 - [Base CC Emploi Population Active 2020](https://www.insee.fr/fr/statistiques/fichier/7632867/base-cc-emploi-pop-active-2020_csv.zip)
 - [Base CC Logement 2020](https://www.insee.fr/fr/statistiques/fichier/7631186/base-cc-logement-2020_csv.zip)
 
+## Kafka
+
+Nous avons utilisé Kafka pour stocker les données collectées. Les données sur les résultats des 1ers et 2èmes tours, de la Population, de l’Emploi et du Logement, sont envoyées dans Kafka. Une fois dans Kafka, elles sont récupérées et traitées par des jobs Spark. Les résultats sont ensuite déposés dans des tables.
+
 ## Traitement des Données
 
 Les données telles que celles du recensement, de l’emploi et du logement sont traitées à l’aide d'un job Spark. Les données des résultats des 1ers et 2èmes tours, localement récoltées, sont envoyées dans Kafka à partir d'un script Python. Une fois dans Kafka, elles sont récupérées et traitées dans Spark.
