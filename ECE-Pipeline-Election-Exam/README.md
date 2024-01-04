@@ -1,6 +1,5 @@
 #Rapport de fin de module
 
-
 Dans le cadre de la réalisation des analyses sur les élections présidentielles en France d’avril 2022, nous avons choisi de mettre en place un data pipline pour la réalisation de ce projet. 
 Sur le site français des statistiques, nous avons trouvé des dataset pouvant nous aider à avoir des données telles que :
 Celles des résultats des 1ers et 2èmes tours, du recensement 2020 et de l’emploi. Ces données nous ont permis de mettre en place des piplines de données de la collette jusqu’à l’analyse.
