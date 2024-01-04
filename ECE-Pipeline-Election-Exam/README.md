@@ -30,7 +30,7 @@ Exemples de sources de données :
 Nous avons utilisé Kafka pour stocker les données collectées. Les données sur les résultats des 1ers et 2èmes tours, de la Population, de l’Emploi et du Logement, sont envoyées dans Kafka. Une fois dans Kafka, elles sont récupérées et traitées par des jobs Spark. Les résultats sont ensuite déposés dans des tables.
 
 
-## Traitement des Données
+## Apache Spark : Traitement des Données
 
 Les données issues du recensement, de l'emploi et du logement sont traitées efficacement grâce à des jobs Spark. Ces jobs récupèrent les données présentes dans des topics distincts de notre broker local, les traitent de manière appropriée, puis les déposent dans des tables dédiées. Par exemple :
 
@@ -46,13 +46,17 @@ Les données telles que celles du recensement, de l’emploi et du logement sont
 ### Flux de Traitement
 
 
-## Apache Spark
-
-À travers des jobs Spark, les données sont traitées et envoyées dans une base de données PostgreSQL. Les tables sont créées pour analyser quelques colonnes des tables.
-
 ## Base de Données PostgreSQL
 
-La base de données PostgreSQL permet de stocker les données traitées. À travers un code Python, elles sont dispatchées dans les data modèles qui créent des tables. Ces data modèles sont répartis en deux et organisés de la même manière : le 1er pour les résultats du 1er tour et le 2ème pour les résultats du 2ème.
+La base de données PostgreSQL joue un rôle essentiel dans le stockage des données traitées de notre projet d'analyses des élections présidentielles en France. Les informations stockées dans cette base de données sont cruciales pour notre processus d'analyse.
+
+### Data Models
+
+Nous avons élaboré deux data models pour faciliter l'accès aux données et simplifier le processus d'analyse. Ces modèles, organisés de manière structurée, permettent une navigation aisée à travers les résultats du 1er tour et du 2ème tour des élections présidentielles. Chaque modèle est conçu pour offrir une vue précise et ciblée des données, facilitant ainsi les différentes analyses que nous entreprenons.
+
+Les data models comprennent des tables telles que `Dim_candidats`, `Dim_departement`, et `Fact_vote`, interconnectées de manière à fournir une compréhension complète des résultats électoraux. Ces modèles offrent une base solide pour des requêtes sophistiquées et des analyses approfondies.
+
+En résumé, la base de données PostgreSQL et les data models associés constituent un élément clé de notre infrastructure, permettant une exploration efficace et une compréhension approfondie des résultats des élections présidentielles en France.
 
 ## Liaisons entre les Tables
 
