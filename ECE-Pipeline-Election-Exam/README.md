@@ -3,45 +3,48 @@
 </div>
 
 
-Dans le cadre de la réalisation des analyses sur les élections présidentielles en France d’avril 2022, nous avons choisi de mettre en place un data pipline pour la réalisation de ce projet. 
-Sur le site français des statistiques, nous avons trouvé des dataset pouvant nous aider à avoir des données telles que :
-Celles des résultats des 1ers et 2èmes tours, du recensement 2020 et de l’emploi. Ces données nous ont permis de mettre en place des piplines de données de la collette jusqu’à l’analyse.
-Technologie utilisées
-Nifi
-Airflow
-Python
-Kafka
-Spark
-Postgresql
+# Projet d'Analyses des Élections Présidentielles en France - Data Pipeline
 
-Apache Nifi nous a permis d’intégré les données venant d’internet
-Pour le développement des flux de données, les processeurs comme :
-invokeHTTP avec lequel nous avons récupéré les sources de données sur data.gouv
-Exemple :
-https://www.insee.fr/fr/statistiques/fichier/7632446/base-cc-evol-struct-pop-2020_xlsx.zip
-https://www.insee.fr/fr/statistiques/fichier/7632867/base-cc-emploi-pop-active-2020_csv.zip
-https://www.insee.fr/fr/statistiques/fichier/7631186/base-cc-logement-2020_csv.zip
-Ces sources de données ont été converti à l’aide du processor UnpackContent avant d’être envoyé vers le processeur SplitText qui nous a permis de traiter les données ligne par ligne. Enfin le processeur PublishKafka, avec lequel les données traitées ont été stockés.
-Chaque flux correspond à une source de données
- 
- 
-Les données comme celles des recensement, l’emploi et logement sont traitées à l’aide d’un jobspark.
-Les données des résultats des 1ers et 2èmes tours localement récoltés sont envoyées dans kafka à partir d’un script python.
-Une fois dans kafka, elles sont récupérées et traitées dans spark.
-Apache Spark : à travers des jobs spark, les données sont traitées et envoyées dans une base de données postgresql dans laquelle les tables sont créés pour analyser quelques colonnes des tables.
+Dans le cadre de la réalisation des analyses sur les élections présidentielles en France d’avril 2022, nous avons choisi de mettre en place un data pipeline pour la réalisation de ce projet. Sur le site français des statistiques, nous avons trouvé des datasets pouvant nous aider à avoir des données telles que celles des résultats des 1ers et 2èmes tours, du recensement 2020 et de l’emploi. Ces données nous ont permis de mettre en place des pipelines de données de la collecte jusqu’à l’analyse.
 
-La base de données postgresql permet dans notre cas de stockées les données traitées et à travers un code python ils sont dispatchées dans les data modèles qui créés des tables :
-Ces data modèles sont réparties en deux et organisés de la même manière
-Le 1er pour les resultats du 1er tour et le 2ème pour les résultats du 2ème 
-La liaison entre les tables du data modèle 1er tour est faite comme suit :
+## Technologies Utilisées
 
-Dim_candidats et dim_departement sont liées à la table fact_vote par les clés
-    COD_CANDIDAT INT DEFAULT nextval('cod_candidat_seq') PRIMARY KEY,
-Pour dim_candidats et 
-    cod_dep INT DEFAULT nextval('cod_dep_sequence') PRIMARY KEY,
-pour dim_departement  
+- Nifi
+- Airflow
+- Python
+- Kafka
+- Spark
+- PostgreSQL
 
- 
-Apache Airflow sert d'orchestrateur de flux de travail, il nous aide dans la planification, l’automatisation, la coordination et la surveillance des différentes étapes de notre flux de données.
- 
-Dans notre cas précis, les parties traitements de données sont des parties automatisées par airflow. Voir sur le schéma ci-dessus les parties orchestrer.
+## Flux de Données
+
+Apache Nifi nous a permis d’intégrer les données venant d'internet. Pour le développement des flux de données, les processeurs tels que `invokeHTTP` nous ont aidés à récupérer les sources de données sur data.gouv. Les sources de données ont été converties à l’aide du processor `UnpackContent` avant d’être envoyées vers le processeur `SplitText` qui nous a permis de traiter les données ligne par ligne. Enfin, le processeur `PublishKafka` a été utilisé pour stocker les données. Chaque flux correspond à une source de données.
+
+Exemples de sources de données :
+- [Base CC Évolution Structurelle de la Population 2020](https://www.insee.fr/fr/statistiques/fichier/7632446/base-cc-evol-struct-pop-2020_xlsx.zip)
+- [Base CC Emploi Population Active 2020](https://www.insee.fr/fr/statistiques/fichier/7632867/base-cc-emploi-pop-active-2020_csv.zip)
+- [Base CC Logement 2020](https://www.insee.fr/fr/statistiques/fichier/7631186/base-cc-logement-2020_csv.zip)
+
+## Traitement des Données
+
+Les données telles que celles du recensement, de l’emploi et du logement sont traitées à l’aide d'un job Spark. Les données des résultats des 1ers et 2èmes tours, localement récoltées, sont envoyées dans Kafka à partir d'un script Python. Une fois dans Kafka, elles sont récupérées et traitées dans Spark.
+
+## Apache Spark
+
+À travers des jobs Spark, les données sont traitées et envoyées dans une base de données PostgreSQL. Les tables sont créées pour analyser quelques colonnes des tables.
+
+## Base de Données PostgreSQL
+
+La base de données PostgreSQL permet de stocker les données traitées. À travers un code Python, elles sont dispatchées dans les data modèles qui créent des tables. Ces data modèles sont répartis en deux et organisés de la même manière : le 1er pour les résultats du 1er tour et le 2ème pour les résultats du 2ème.
+
+## Liaisons entre les Tables
+
+Pour le data modèle 1er tour, la liaison entre les tables est faite comme suit :
+- `Dim_candidats` et `Dim_departement` sont liées à la table `Fact_vote` par les clés `COD_CANDIDAT` et `COD_DEP`.
+
+```sql
+-- Exemple de colonne pour la liaison dans Dim_candidats
+COD_CANDIDAT INT DEFAULT nextval('cod_candidat_seq') PRIMARY KEY,
+
+-- Exemple de colonne pour la liaison dans Dim_departement
+COD_DEP INT DEFAULT nextval('cod_dep_sequence') PRIMARY KEY,
