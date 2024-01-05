@@ -45,14 +45,14 @@ Les données telles que celles du recensement, de l’emploi et du logement sont
 
 ### Flux de Traitement
 <div style="text-align:center">
-    <img src="Flux.jpeg" alt="Texte de remplacement" width="800"/>
+    <img src="Flux.jpeg" alt="Texte de remplacement" width="400"/>
 </div>
 
 
 # Apache Airflow: DAG(Processing_data_spark)
 
 <div style="margin: auto; text-align: center;">
-    <img src="Dag.png" alt="Texte de remplacement" width="500"/>
+    <img src="Dag.png" alt="Texte de remplacement" width="600"/>
 </div>
 
 ## Description
