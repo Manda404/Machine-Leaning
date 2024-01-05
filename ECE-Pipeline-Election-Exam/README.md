@@ -52,8 +52,9 @@ Les données telles que celles du recensement, de l’emploi et du logement sont
 # Apache Airflow: DAG(Processing_data_spark)
 
 <div style="margin: auto; text-align: center;">
-    <img src="Dag.png" alt="Texte de remplacement" width="300"/>
+    <img src="Dag.png" alt="Texte de remplacement" width="500"/>
 </div>
+
 ## Description
 
 Ce DAG (Directed Acyclic Graph) a été conçu pour orchestrer le traitement des données dans un environnement Apache Airflow, en utilisant des tâches dépendantes pour automatiser le flux de travail complet. Le DAG est conçu pour être exécuté quotidiennement, démarrant à la date spécifiée.
