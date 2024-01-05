@@ -87,3 +87,54 @@ COD_CANDIDAT INT DEFAULT nextval('cod_candidat_seq') PRIMARY KEY,
 
 -- Exemple de colonne pour la liaison dans Dim_departement
 COD_DEP INT DEFAULT nextval('cod_dep_sequence') PRIMARY KEY,
+
+# DAG: Processing_data_spark
+
+## Description
+
+Ce DAG (Directed Acyclic Graph) a été conçu pour orchestrer le traitement des données dans un environnement Apache Airflow, en utilisant des tâches dépendantes pour automatiser le flux de travail complet. Le DAG est conçu pour être exécuté quotidiennement, démarrant à la date spécifiée.
+
+## Tâches Principales
+
+1. **start_processing_task :**
+   - *Description :* Point de départ du flux de travail.
+   - *Action :* Affiche un message indiquant le début du traitement ETL (Extract, Transform, Load).
+
+2. **create_topic_task :**
+   - *Description :* Crée un sujet pour les élections en exécutant le script Bash create_Election_topics.sh.
+   - *Action :* Prépare l'environnement pour le traitement ultérieur.
+
+3. **create_database_tables_task :**
+   - *Description :* Crée les tables de la base de données en exécutant le script Bash create_database_and_tables.sh.
+   - *Action :* Prépare la base de données pour stocker les résultats du traitement.
+
+4. **send_data_task_tour1 / send_data_task_tour2 :**
+   - *Description :* Envoie des données à Kafka pour deux tours d'élections distincts.
+   - *Action :* Prépare les données pour le traitement Spark.
+
+5. **spark_task_emploi / spark_task_logement / spark_task_population :**
+   - *Description :* Exécute des tâches Spark pour traiter les données liées à l'emploi, au logement et à la population.
+   - *Action :* Effectue des calculs complexes et génère des résultats.
+
+6. **spark_task_resultatsT1 / spark_task_resultatsT2 :**
+   - *Description :* Exécute des tâches Spark spécifiques pour les résultats des deux tours d'élections.
+   - *Action :* Génère des résultats spécifiques aux tours d'élections.
+
+7. **insert_task_candidats / insert_task_departements / insert_task_fact_votes / insert_task_candidats_t2 / insert_task_departements_t2 / insert_task_fact_votes_t2 :**
+   - *Description :* Insère des données dans le modèle de données pour les candidats, les départements et les votes, respectivement.
+   - *Action :* Intègre les résultats Spark dans le modèle de données.
+
+8. **end_processing_task :**
+   - *Description :* Point d'arrivée du flux de travail.
+   - *Action :* Affiche un message indiquant la fin du traitement.
+
+9. **wait_five_second_task :**
+   - *Description :* Pause de 5 secondes entre les tâches d'insertion et les tâches Spark.
+   - *Action :* Assure une séquence appropriée dans le flux de travail.
+
+## Dépendances
+Les tâches sont organisées de manière à respecter les dépendances logiques, assurant l'exécution séquentielle des différentes étapes du traitement des données.
+
+<div style="margin: auto; text-align: center;">
+    <img src="Dag.png" alt="Texte de remplacement" width="300"/>
+</div>
