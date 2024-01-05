@@ -88,7 +88,11 @@ COD_CANDIDAT INT DEFAULT nextval('cod_candidat_seq') PRIMARY KEY,
 -- Exemple de colonne pour la liaison dans Dim_departement
 COD_DEP INT DEFAULT nextval('cod_dep_sequence') PRIMARY KEY,
 
-# DAG: Processing_data_spark
+# Apache Airflow: DAG(Processing_data_spark)
+
+<div style="margin: auto; text-align: center;">
+    <img src="Dag.png" alt="Texte de remplacement" width="300"/>
+</div>
 
 ## Description
 
@@ -134,7 +138,3 @@ Ce DAG (Directed Acyclic Graph) a été conçu pour orchestrer le traitement des
 
 ## Dépendances
 Les tâches sont organisées de manière à respecter les dépendances logiques, assurant l'exécution séquentielle des différentes étapes du traitement des données.
-
-<div style="margin: auto; text-align: center;">
-    <img src="Dag.png" alt="Texte de remplacement" width="300"/>
-</div>
