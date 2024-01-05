@@ -86,14 +86,16 @@ Pour le data modèle 1er tour, la liaison entre les tables est faite comme suit 
 COD_CANDIDAT INT DEFAULT nextval('cod_candidat_seq') PRIMARY KEY,
 
 -- Exemple de colonne pour la liaison dans Dim_departement
-COD_DEP INT DEFAULT nextval('cod_dep_sequence') PRIMARY KEY,
+COD_DEP INT DEFAULT nextval('cod_dep_sequence') PRIMARY KEY'''
+
+
+## Liaisons entre les Tables
 
 # Apache Airflow: DAG(Processing_data_spark)
 
 <div style="margin: auto; text-align: center;">
     <img src="Dag.png" alt="Texte de remplacement" width="300"/>
 </div>
-
 ## Description
 
 Ce DAG (Directed Acyclic Graph) a été conçu pour orchestrer le traitement des données dans un environnement Apache Airflow, en utilisant des tâches dépendantes pour automatiser le flux de travail complet. Le DAG est conçu pour être exécuté quotidiennement, démarrant à la date spécifiée.
