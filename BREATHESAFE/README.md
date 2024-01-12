@@ -24,7 +24,7 @@
 
 ## Architecture du Projet
 
-![Architecture du Projet](SurelArchitecture.png)
+![Architecture du Projet](SurelArchitecture.jpeg)
 
 ## Technologies Utilisées
 - **Flask**: Framework web en Python pour la création d'une interface utilisateur conviviale.
