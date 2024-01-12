@@ -4,6 +4,21 @@
 
 **Objectif :** Implémentation d'un système complet assurant une surveillance continue de divers paramètres liés à la pollution de l'air, tels que le CO2, le NO2, les particules fines, et d'autres polluants atmosphériques.
 
+## Architecture du Projet
+
+![Architecture du Projet](SurelArchitecture.jpeg)
+
+## Technologies Utilisées
+- **Flask**: Framework web en Python pour la création d'une interface utilisateur conviviale.
+- **Kafka**: Plateforme de diffusion de flux en temps réel pour la gestion et la transmission des données.
+- **Python**: Langage de programmation utilisé pour le développement.
+- **SQL Server Management Studio**: Gestion de base de données relationnelle pour le stockage robuste des données traitées.
+- **Pyspark**: Bibliothèque Python pour le traitement des données en temps réel avec Apache Spark.
+- **GitHub**: Plateforme de gestion de version pour le suivi des modifications et la collaboration.
+- **Apache Airflow**: Plateforme pour orchestrer des workflows et automatiser les tâches.
+- **Power BI**: Outil de visualisation de données pour créer des rapports interactifs.
+- **Méthode Agile**: Méthodologie de développement itérative et collaborative pour une flexibilité accrue.
+
 ## Fonctionnalités Principales
 
 ### 1. Intégration de Capteurs Polluants
@@ -21,26 +36,3 @@
 ### 4. Implémentation des DAGs dans Apache Airflow
 - Automatisation des flux de travail avec des Directed Acyclic Graphs (DAGs) dans Apache Airflow.
 - Planification et exécution des tâches de manière automatisée.
-
-## Architecture du Projet
-
-![Architecture du Projet](SurelArchitecture.jpeg)
-
-## Technologies Utilisées
-- **Flask**: Framework web en Python pour la création d'une interface utilisateur conviviale.
-- **Kafka**: Plateforme de diffusion de flux en temps réel pour la gestion et la transmission des données.
-- **Python**: Langage de programmation utilisé pour le développement.
-- **SQL Server Management Studio**: Gestion de base de données relationnelle pour le stockage robuste des données traitées.
-- **Pyspark**: Bibliothèque Python pour le traitement des données en temps réel avec Apache Spark.
-- **GitHub**: Plateforme de gestion de version pour le suivi des modifications et la collaboration.
-- **Apache Airflow**: Plateforme pour orchestrer des workflows et automatiser les tâches.
-- **Power BI**: Outil de visualisation de données pour créer des rapports interactifs.
-- **Méthode Agile**: Méthodologie de développement itérative et collaborative pour une flexibilité accrue.
-
-## Comment Contribuer
-
-Si vous souhaitez contribuer à BreatheSafe, veuillez consulter le [Guide de Contribution](CONTRIBUTING.md) pour obtenir des informations détaillées sur le processus de contribution.
-
-## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
