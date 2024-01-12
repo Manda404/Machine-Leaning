@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-time Pollution Data</title>
+    <script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="plot-container"></div>
+
+   <!-- Your existing HTML code -->
+<!-- Votre code HTML existant -->
+
+<script>
+    var socket = io.connect('http://' + document.domain + ':' + location.port);
+
+    socket.on('update_plot', function(data) {
+        var trace1 = {
+            x: data['time'],
+            y: data['no2'],
+            type: 'scatter',
+            mode: 'lines+markers',
+            name: 'NO2'
+        };
+
+        var trace2 = {
+            x: data['time'],
+            y: data['so2'],
+            type: 'scatter',
+            mode: 'lines+markers',
+            name: 'SO2'
+        };
+
+        var trace3 = {
+            x: data['time'],
+            y: data['pm10'],
+            type: 'scatter',
+            mode: 'lines+markers',
+            name: 'PM10'
+        };
+
+        var trace4 = {
+            x: data['time'],
+            y: data['o3'],
+            type: 'scatter',
+            mode: 'lines+markers',
+            name: 'O3'
+        };
+
+        var layout = {
+            title: {
+                text: 'Niveaux de pollution au fil du temps',  // Titre en français
+                font: {
+                    size: 30  // Augmentez la taille du texte du titre à 30 pixels
+                }
+            },
+            xaxis: {
+                title: {
+                    text: 'Temps',  // Texte de l'axe des x en français
+                    font: {
+                        size: 30  // Augmentez la taille du texte de l'axe des x à 25 pixels
+                    }
+                }
+            },
+            yaxis: {
+                title: {
+                    text: 'Moyenne de polluants',  // Texte de l'axe des y en français
+                    font: {
+                        size: 30  // Augmentez la taille du texte de l'axe des y à 25 pixels
+                    }
+                }
+            },
+            height: 1100,  // Réglez la hauteur à 1200 pixels
+            width: 1700,  // Réglez la largeur à 1700 pixels
+            legend: {
+                font: {
+                    size: 30  // Réglez la taille du texte de la légende à 20 pixels
+                }
+            }
+        };
+
+        Plotly.newPlot('plot-container', [trace1, trace2, trace3, trace4], layout);
+    });
+</script>
+<!-- Reste de votre code HTML -->
+</body>
+</html>
