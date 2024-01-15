@@ -2,9 +2,7 @@
 
 ## Janvier 2024 - Mars 2024
 
-**Objectif :** Développement d'une solution complète pour évaluer et suivre la production de NOx au fil du temps dans une turbine à gaz.
-
-Développement d'une solution complète pour évaluer et suivre la production de NOx au fil du temps dans une turbine à gaz. La solution utilise des capteurs pour mesurer divers paramètres environnementaux, un modèle de régression ExtraTreesRegressor pour prédire les niveaux de NOx, et une interface web pour visualiser les résultats en temps réel.
+**Objectif :** Développement d'une solution complète pour évaluer et suivre la production de NOx au fil du temps dans une turbine à gaz. La solution utilise des capteurs pour mesurer divers paramètres environnementaux, un modèle de régression ExtraTreesRegressor pour prédire les niveaux de NOx, et une interface web pour visualiser les résultats en temps réel.
 
 ## Architecture du Projet
 
