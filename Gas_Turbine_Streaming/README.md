@@ -8,7 +8,7 @@ Développement d'une solution complète pour évaluer et suivre la production de
 
 ## Architecture du Projet
 
-![Architecture du Projet](TurbineNOxAnalyzer_Architecture.jpeg)
+![Architecture du Projet](TurbineNOxAnalyzer_Architecture.png)
 
 ## Technologies Utilisées
 - **Flask**: Framework web en Python pour la création de l'interface utilisateur dynamique.
