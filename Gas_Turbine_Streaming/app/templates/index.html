@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-time Pollution Data</title>
+    <script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="plot-container"></div>
+
+    <script>
+        var socket = io.connect('http://' + document.domain + ':' + location.port);
+
+        socket.on('update_plot', function(data) {
+            var trace1 = {
+                x: data['time'],
+                y: data['actual_nox'], // Utiliser les données réelles pour NOx
+                type: 'scatter',
+                mode: 'lines+markers',
+                name: 'Actual NOx'
+            };
+
+            var trace2 = {
+                x: data['time'],
+                y: data['predicted_nox'], // Utiliser les données prédites pour NOx
+                type: 'scatter',
+                mode: 'lines+markers',
+                name: 'Predicted NOx'
+            };
+
+            var layout = {
+                title: {
+                    text: 'Niveaux de pollution au fil du temps',
+                    font: {
+                        size: 30
+                    }
+                },
+                xaxis: {
+                    title: {
+                        text: 'Temps',
+                        font: {
+                            size: 30
+                        }
+                    }
+                },
+                yaxis: {
+                    title: {
+                        text: 'Niveaux de NOx',
+                        font: {
+                            size: 30
+                        }
+                    }
+                },
+                height: 1100,
+                width: 1800,
+                legend: {
+                    font: {
+                        size: 30
+                    }
+                }
+            };
+
+            Plotly.newPlot('plot-container', [trace1, trace2], layout);
+        });
+    </script>
+</body>
+</html>
