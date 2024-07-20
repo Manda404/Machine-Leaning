@@ -1,0 +1,467 @@
+Dans l’Ethique, Spinoza, fasciné par la rigueur et la clarté du modèle mathématique, se donne pour visée d’appliquer la méthode géométrique à la philosophie.
+
+On sait que cette méthode procède par définitions, axiomes, puis s’élève de propositions en propositions rigoureusement déduites les unes des autres jusqu’à atteindre la vérité à démontrer.
+
+
+Les définitions ont pour objectif d’indiquer précisément le sens des termes dont on va se servir, afin qu’il n’y ait nulle ambiguïté ou équivoque possible.
+
+Les axiomes posent des vérités considérées comme évidentes, et qui vont servir de base aux démonstrations. Ce ne sont plus de simples définitions, au sens où ils ne se contentent pas de déterminer le sens d’un mot dont on va se servir : ce sont de vrais jugements prédicatifs qui disent quelque chose de quelque chose et prétendent au statut de vérité évidente.
+
+
+Prenons quelques exemples de définitions et d’axiomes proposés par Spinoza.
+
+Parmi les définitions, on trouve au livre I, celle, célèbre, de la cause de soi (causa sui) : Par cause de soi, j’entends ce dont l’essence enveloppe l’existence, autrement dit ce dont la nature ne peut se concevoir qu’existante 1.
+
+Ou encore celle de la substance : Par substance, j’entends ce qui est en soi et se conçoit par soi : c’est-à-dire ce dont le concept n’a pas besoin du concept d’autre chose, d’où il faille le former 2.
+
+Ces deux définitions sont fondamentales, car elles définissent Dieu pour Spinoza. Dieu est cause de soi, et Dieu est substance. Plus précisément, Dieu est seule cause de soi, et seule substance.
+
+Parmi les axiomes, on trouve par exemple : Etant donné une cause déterminée, il en suit nécessairement un effet, et au contraire, s’il n’y a aucune cause déterminée, il est impossible qu’un effet s’ensuive 3.
+
+On voit que Spinoza ne se contente pas ici de définir le concept de cause, mais affirme une vérité reconnue comme évidente sur la réalité du rapport entre un effet et une cause.
+
+
+A partir de ce mécanisme argumentatif « more geometrico », Spinoza s’élève donc de propositions en propositions, qu’il déduit les unes des autres.
+
+Par exemple, de la proposition 7 : A la nature d’une substance appartient d’exister 4, et de la proposition 8 : Toute substance est nécessairement infinie 5, Spinoza déduit la proposition 11 :
+
+Dieu autrement dit une substance consistant en une infinité d’attributs dont chacun exprime une essence éternelle et infinie existe nécessairement 6.
+
+Spinoza utilise des termes issus de l’ancienne scolastique : substance, attribut, essence, etc. Mais il leur donne un sens nouveau, et l’utilisation de cette méthode géométrique en philosophie est novatrice.
+
+Surtout, les résultats auxquels il va parvenir dans l’Ethique sont éminemment modernes.
+
+Dieu en effet est certes substance infinie, dont tout le reste n’est qu’attribut, Dieu certes est perfection, dont tout le reste procède. Mais Spinoza au livre IV, définit au détour d’une proposition ce qu’il entend par Dieu : la Nature.
+
+Il parle de la puissance même de Dieu, autrement dit de la Nature 7 : Deus sive Natura.
+
+Or si Dieu n’est autre chose que la Nature, il n’y a en fait pas de Dieu. Dieu n’est qu’un nom donné à la Nature, et il n’y a pas de Dieu transcendant (extérieur et supérieur) à celle-ci.
+
+C’est donc là un des premiers philosophes qui, au 17ème siècle, développe, de manière dissimulée pour échapper à la censure, un athéisme au cœur de sa philosophie.
+
+
+Dieu, autrement dit la Nature, est donc défini comme substance ayant une infinité d’attributs. Expliquons rapidement le sens traditionnel de ces termes « substance » et « attribut ». Prenons un homme. Il est riche, grand, célèbre. Ces déterminations sont des attributs, au sens où elles peuvent être modifiées sans que le sujet ne disparaisse. Cet homme riche peut devenir pauvre, il restera tout de même cet individu. Ce sont donc des déterminations non essentielles d’une personne (ou d’une chose), que l’on appelle des attributs.
+
+Les attributs ne sont pas des étants, n’ont pas d’existence consistante en eux même. En revanche, le sujet porteur de cet attribut (l’homme lui-même) est une substance. Et ce qu’on ne peut pas lui enlever sans qu’il disparaisse fait partie de sa substance.
+
+
+La substance, c’est ce qui se tient en dessous des accidents (sub : en dessous, tenere : se tenir).
+
+Depuis Aristote, ces termes ont ce sens là ; l’homme (substance) a divers attributs (ou accidents) : beau, grand, naïf, etc. Or Spinoza renverse radicalement cette perspective. Chez lui, l’homme n’est plus une substance subsistant en soi.
+
+
+Il n’est plus en lui-même qu’un attribut, un accident, de la seule substance qui existe véritablement : Dieu, autrement dit la Nature.
+
+Il n’est naturellement pas le seul à être frappé de cette dégradation, de ce changement ontologique. L’ensemble des étants (tout ce qui est) n’est qu’attribut de Dieu.
+
+Chez les stoïciens, l’homme n’était certes compris que comme partie du Tout, qui est le cosmos. Mais l’homme restait substance, parmi les substances. Ici ce n’est plus le cas.
+
+
+On comprend dès lors pourquoi Spinoza dit que tout ce qui est est en Dieu et rien ne peut sans Dieu ni être ni se concevoir 1.
+
+Dieu est cause de tout, mais pas au sens traditionnel où tout serait un effet de son intellect et de sa volonté infinie. C’est humaniser Dieu que de lui accorder ces facultés (intellect et volonté). A la rigueur, on peut le lui accorder métaphoriquement, mais alors il faut garder à l’esprit que l’un et l’autre de ces deux attributs représentent réellement en Dieu toute autre chose que ce que les hommes, d’ordinaire, entendent vulgairement par là 2. La volonté et l’intellect réels de Dieu divergent de notre conception traditionnelle de la volonté et de l’entendement tout autant que le Chien zodiacal (la constellation du Chien) diffère de l’animal.
+
+En fait, Dieu est cause de tout non pas au sens où il décide de tout, mais au sens où tout découle nécessairement de sa nature.
+
+
+Spinoza se place dans une perspective résolument déterministe, au sens où pour lui tout événement, loin de se produire par hasard, découle d’une cause, elle-même dérivant d’une cause antérieure, qui n’est à son tour que l’effet d’une cause précédente, etc. En remontant la chaîne des causes, on parvient à la première des causes qui est la cause de soi (causa sui) : Dieu.
+
+Donc tout être humain, tout étant, tout événement, est un effet nécessaire de la nature de Dieu, dans son déploiement historique. Rien n’est contingent, rien ne se produit par hasard :
+
+Dans la nature des choses, il n’y a rien de contingent, mais tout y est déterminé par la nécessité de la nature divine, à exister et à opérer d’une manière précise 3.
+Néanmoins Spinoza appelle « contingentes » les choses singulières, non pas au sens où elles se produiraient sans cause, mais au sens où leur cause ne se situe pas en elle-même, mais dans d’autres causes ou événements ultérieurs. Seul Dieu n’est pas contingent dans la mesure où en tant que cause de soi, il porte sa cause en lui-même.
+
+
+Spinoza peut distinguer alors deux choses : la « nature naturante » : Dieu lui-même, cette cause de soi d’où tout provient, et la « nature naturée », à savoir l’ensemble des attributs créés par ce dynamisme et qui restent en Dieu.
+
+Voici la définition précise de ces deux termes :
+
+Nature naturante : Ce qui est en soi et se conçoit par soi, autrement dit tels attributs de la substance, qui expriment une essence éternelle et infinie
+
+Nature naturée : Tout ce qui suit de la nécessité de la nature de Dieu, ou de ses attributs, ou des manières de ses attributs, en tant qu’on les considère comme des choses qui sont en Dieu 4.
+
+
+Les étants puisqu’ils découlent de la nature parfaite de Dieu, sont en eux-mêmes parfaits, ainsi que les événements qui se produisent : Les choses ont été produites par Dieu avec la suprême perfection : puisque c’est de la plus parfaite nature qui soit qu’elles ont suivi nécessairement 5.
+
+On remarque que certains éléments se rapprochent du stoïcisme (le déterminisme, la perfection du monde, la nature comme Dieu), et que l’on aurait pu les voir écrits dans les Pensées de Marc Aurèle.
+
+Mais ce sont les seuls. La théorie de Spinoza se distingue radicalement du stoïcisme sur l’ensemble des autres points. Elle a une originalité et une consistance propre à elle.
+
+
+Dans le célèbre appendice du livre I, Spinoza insiste sur l’importance qu’il y a à lutter contre les préjugés. Ces préjugés sont les superstitions véhiculées par la religion, en premier lieu le finalisme, c’est-à-dire l’idée que l’homme est à la fin de la Création (ou encore que Dieu a tout créé pour l’homme, en vue de son bonheur).
+
+Cela repose sur un autre préjugé, à savoir que l’homme se considère comme libre, parce qu’il a conscience de vouloir ou de désirer des choses. Mais il n’est pas conscient du fait qu’il y a des causes qui le déterminent nécessairement à vouloir ou à désirer ces choses. Ce n’est pas réellement une volonté libre dont il dispose, il n’est donc pas libre :
+
+Les hommes se croient libres, pour la raison qu’ils ont conscience de leurs volitions et de leur appétit, et que les causes qui les disposent à appéter et à vouloir, ils les ignorent, et n’y pensent pas même en rêve 1.
+L’idée selon laquelle les Dieux ont tout créé pour les hommes, pour que ces derniers les honorent, et que plus on les honore, plus on en tirera de grands bénéfices (dont celui de la vie éternelle), relève de la superstition. On comprend pourquoi Spinoza a été excommunié par ses coreligionnaires juifs d’Amsterdam, et ce même si l’Ethique n’est jamais parue de son vivant.
+
+
+En réalité pour Spinoza, c’est le finalisme (à l’œuvre dans le judéo-christianisme) qui est impie : Cette doctrine supprime la perfection de Dieu : car si Dieu agit à cause d’une fin, c’est nécessairement qu’il aspire à quelque chose qui lui manque 2.
+
+Or puisque les hommes pensent que les choses sont faites pour eux, ils ont forgé les notions (ou fictions) suivantes : Le bien, le mal, l’ordre, la confusion, le chaud, le froid, la beauté et la laideur et puisqu’ils pensent être libres la louange et le blâme, le péché et le mérite 3.
+
+En réalité, rien de tout cela n’existe. Cela n’a de sens que par rapport à nous, mais ne renvoie à aucune réalité en soi. Il n’y a pas de bonnes ou de mauvaises actions, il n’y a que des actions qui se déroulent nécessairement, découlant de la substance divine infinie, dont certaines nous arrangent et d’autres nous nuisent.
+
+De même, les hommes appellent « ordre » ce qui leur est facile d’imaginer, comme si l’ordre était quelque chose dans la nature indépendamment de notre imagination 4.
+
+Un dernier exemple : Si le mouvement que reçoivent les nerfs à partir des objets qui se représentent par les yeux contribue à la santé, les objets qui le causent sont dits beaux, et ceux qui excitent un mouvement contraire laids 5.
+
+Pour résumer : Chacun a jugé des choses d’après la disposition de son cerveau et a pris pour les choses les affections de son imagination 6.
+
+
+De ce fait, le monde est parfait, et ce n’est pas parce que certaines choses ou événements nuisent aux hommes qu’il en perd sa perfection.
+
+Si l’homme pense, il n’est pas une substance mais l’essence de l’homme est constituée par des modifications précises des attributs de Dieu, quelque chose qui est en Dieu, et qui sans Dieu ne peut ni être ni se concevoir, autrement dit une affection qui exprime la nature de Dieu de manière précise et déterminée 1.
+
+On voit donc que Spinoza se distingue fondamentalement de Descartes sur ce point, pour qui l’homme est formé de deux substances, la substance pensante et la substance étendue.
+
+
+Pour Spinoza, l’esprit humain n’est pas une substance, mais une partie de l’intellect infini de Dieu 2. Ce qui permet cette belle affirmation : Dieu constitue la nature de l’Esprit humain 3.
+
+Le corps quant à lui est l’objet de l’idée constituant l’esprit humain ou encore une manière de l’Etendue précise et existant en acte, et rien d’autre 4.
+
+
+Cette conception permet de donner une solution au problème de l’union du corps et de l’esprit fondamentalement différente de celle de Descartes.
+
+Tout d’abord, il y a bien union : Que l’Esprit est uni au Corps, nous l’avons montré de ce que le Corps est objet de l’Esprit 5.
+
+Ensuite il n’y a pas deux choses distinctes, mais une seule et même chose, envisagée sous deux points de vue différents :
+
+L’idée du Corps et le Corps, c’est-à-dire l’Esprit et le Corps, est un seul et même individu, que l’on conçoit tantôt sous l’attribut de la Pensée, tantôt sous celui de l’Etendue 6.
+
+Cette solution résolument novatrice du problème de l’esprit et corps amène Spinoza à reconsidérer la nature de deux facultés : la connaissance et la volonté. Ces deux facultés sollicitent en effet, dans leur acception traditionnelle, le corps et l’esprit.
+
+Les philosophes ont en effet essayé de déterminer l’importance du corps dans le processus de la connaissance. Comment connaît-on une chose ? Au moins dans un premier temps grâce à la perception du corps.
+
+Pour Spinoza, nous percevons par les sens les choses extérieures, et nous en formons des concepts universels. Mais les sens nous les présentent de manière mutilée et confuse, et sans ordre pour l’intellect 7. Ce pourquoi ce premier genre de connaissance est imparfait : J’ai l’habitude d’appeler de telles perceptions connaissance par expérience vague 8.
+
+Cette connaissance du premier genre regroupe ce qu’on l’on entend par opinion ou imagination.
+
+Elle est l’unique source de fausseté.
+
+
+La connaissance du second genre désigne la raison, c’est-à-dire le fait d’atteindre les notions communes et les idées adéquates des propriétés des choses.
+
+La connaissance du troisième genre est une science intuitive, qui procède de l’idée adéquate de l’essence formelle de certains attributs de Dieu vers la connaissance adéquate de l’essence des choses 9.
+
+Ces deux derniers genres de connaissance sont nécessairement vrais.
+
+
+La vérité d’une idée apparaît dans son évidence : Qui a une idée vraie, en même temps sait qu’il a une idée vraie, et ne peut pas douter de la vérité de la chose 10.
+
+Puisque notre esprit est une partie de l’intellect infini de Dieu, il est tout aussi nécessaire que les idées claires et distinctes de l’esprit soient vraies, que cela est nécessaire des idées de Dieu 11.
+
+La raison perçoit les choses telles qu’elles sont en soi. Elle saisit donc leur caractère nécessaire ; de même il est de la nature de la raison de percevoir les choses sous une certaine espèce d’éternité 12 -sub specie aeternitatis.
+
+
+Spinoza doit également, suite à sa nouvelle conception de l’union de l’esprit et du corps, revisiter la notion traditionnellement admise de volonté. En effet la volonté est classiquement une faculté par laquelle l’esprit agit sur le corps. Mais qu’est la volonté, si corps et esprit sont une même chose, envisagée sous deux angles différents ?
+
+Spinoza commence par rappeler qu’en fonction de sa conception déterministe, dans l’Esprit nulle volonté n’est absolue, autrement dit libre, mais l’Esprit est déterminé à vouloir ceci ou cela par une cause, qui elle aussi est déterminée par une autre, et celle-ci à son tour par une autre, et ainsi à l’infini 1.
+
+Cela vaut de la même manière pour les prétendues facultés de comprendre, de désirer, d’aimer… qui sont donc soit purement fictives, soit rien que des étants métaphysiques, autrement dit des universaux que nous avons coutume de former à partir des particuliers 2.
+
+
+En fait, ce qui est réel, c’est non pas la volonté mais telle ou telle volition particulière qui accompagne telle ou telle de nos idées : L’intellect et la volonté ont avec telle idée ou volition le même rapport que la pierrité avec telle pierre, ou que l’homme avec Pierre et Paul 3.
+
+Il faut remarquer que Spinoza n’entend pas par volonté le désir (duquel il traitera dans le livre suivant), mais la faculté d’affirmer et de nier la vérité ou la fausseté de quelque chose 4.
+
+
+De plus les volitions elles-mêmes disparaissent, puisque l’idée enveloppe en elle-même sa propre négation ou affirmation (ce en quoi elles ne sont pas des simples images, ou peintures, à laquelle l’esprit décide ou non de donner son assentiment). Elles portent en elles-mêmes leur propre assentiment.
+
+Prenons un exemple : ce n’est pas la volonté qui refuse l’idée de se jeter dans le vide, c’est cette idée elle-même qui porte son propre principe de persuasion (ou de refus). De même que la vérité se manifeste d’elle-même, de par sa propre lumière ou évidence, comme on l’a vu.
+
+Ce pourquoi Spinoza peut affirmer :
+
+Dans l’esprit il n’y a aucune volition, autrement dit aucune affirmation et négation, à part celle qu’enveloppe l’idée, en tant qu’elle est idée 5.
+Il n’y a donc, de ce fait, aucune différence entre volonté et intellect. Comprendre une idée, c’est y adhérer ou la refuser, selon l’affirmation ou la négation qu’elle porte. Ou encore, c’est l’idée elle-même qui s’impose à nous, ou au contraire, suscite en nous une opposition.
+
+
+Pourtant, certains n’adhèrent-ils sincèrement pas à des idées fausses ? Spinoza le nie : ils ne sont pas certains de cette idée, au mieux, ils ne doutent pas. Or la certitude est quelque chose de positif et non une simple privation de doute. Seule une idée vraie peut provoquer la certitude.
+
+De la même manière, Spinoza balaie d’autres objections. Par exemple, le fait que depuis Descartes, on distingue la volonté de l’intellect car la première est infinie, tandis que le second est fini. Ou encore qu’alors on ne pourra choisir entre deux idées ayant la même force d’assentiment, tel l’âne de Buridan qui se laisse mourir parce qu’il est placé à égale distance de foin et d’eau.
+
+Spinoza commence à envisager les conséquences pratiques des deux premiers livres. La doctrine spinoziste permet de rendre l’âme tranquille de toutes les manières, du fait qu’ elle enseigne que nous agissons par le seul commandement de Dieu, et que nous participons de la nature divine et enfin que notre suprême félicité consiste dans la seule connaissance de Dieu 6.
+
+Livre III : des affects
+
+Les affects désignent les passions et désirs humains. Ce serait une erreur de considérer qu’ils sont contre-nature. Au contraire puisque tout procède nécessairement de la substance divine, tout est naturel :
+
+Pour la plupart, ceux qui ont écrit des affects semblent traiter, non de choses naturelles qui suivent les lois communes de la nature, mais de choses qui sont hors de la nature. On dirait même qu’ils conçoivent l’homme dans la nature comme un empire dans un empire. Car ils croient que l’homme perturbe l’ordre de la nature plutôt qu’il ne le suit 7.
+C’est là une profonde erreur, au contraire rien ne se fait dans la nature que l’on puisse attribuer à un vice de celle-ci ; car la nature est toujours la même, et a partout une seule et même vertu et puissance d’agir 8.
+
+De ce fait, les affects apparaissent ou disparaissent selon la même nécessité que les choses ou événements. Une science des affects est donc possible : Je considèrerai les actions et appétits humains comme s’il était question de lignes, de plans ou de corps 1.
+
+Des définitions qui ouvrent le livre III, nous retiendrons celle des affects :
+
+Par affect, j’entends les affections du corps qui augmentent ou diminuent la puissance d’agir de ce corps et en même temps les idées de ces affections 2.
+
+La première proposition défend l’idée que notre esprit agit en tant qu’il a des idées adéquates et pâtit en tant qu’il a des idées inadéquates ; une idée adéquate étant, selon la définition qu’il en a donnée dans le livre II, une idée qui en soi, sans rapport à l’objet, a les propriétés ou les dénominations intrinsèques de l’idée vraie 3.
+
+Peut-on dire simplement qu’une idée adéquate est une idée vraie ? Probablement, bien que la formulation de Spinoza laisse plutôt penser qu’une idée adéquate est une idée bien formée, ayant la forme ou les propriétés d’une idée vraie.
+
+Le corollaire de cette première proposition est remarquable : L’Esprit est sujet à d’autant plus de passions qu’il a plus d’idées inadéquates, et au contraire, agit d’autant plus qu’il a plus d’idées adéquates 4. Peut-on en déduire qu’un esprit qui atteindrait les dernières vérités serait pure action ?
+
+
+On a vu dans le livre II la critique spinoziste de la faculté de volonté, et l’affirmation de l’idée selon laquelle le corps et l’esprit ne sont qu’une seule et même chose, envisagée selon deux points de vue différents.
+
+C’est pourquoi Spinoza rappelle que le corps ne peut déterminer l’esprit à penser, ni l’esprit déterminer le corps au mouvement, ni au repos, ni à quelque chose d’autre 5.
+
+Ce qui détermine tel ou tel mouvement de notre corps, c’est plutôt un mouvement antérieur d’un autre corps, ou encore Dieu comme substance étendue ; de même une pensée ne peut avoir pour cause qu’une autre pensée antérieure, ou Dieu comme substance pensante.
+
+
+De ce fait, l’ordre ou l’enchaînement des choses est un, qu’on conçoive la nature sous l’un ou l’autre de ces attributs autrement dit l’ordre des actions et passions de notre corps va par nature de pair avec l’ordre des actions et passions de notre esprit 6.
+
+Il est donc faux de croire comme on le fait communément que le corps se meut sous l’impulsion de l’esprit. D’ailleurs, le corps peut se mouvoir sans esprit, ainsi que le montre l’exemple des somnambules. Enfin, nul ne sait ce que peut le corps : L’expérience n’a appris à personne jusqu’à présent ce que le Corps peut faire par les seules lois de la nature 7.
+
+On croit que le corps est inerte sans esprit ? Spinoza fait remarquer par l’exemple du sommeil que si le corps est inerte, l’esprit est inerte.
+
+
+Spinoza développe à nouveau une critique de la volonté, ou du libre arbitre, inconciliable avec le déterminisme fondamental de sa pensée :
+
+Ainsi croit le bébé aspirer librement au lait, et l’enfant en colère vouloir la vengeance, et le peureux la fuite. L’homme ivre croit que c’est par un libre décret de l’Esprit qu’il dit ce que, redevenu sobre, il voudrait avoir tu ; alors pourtant qu’il n’a pas pu contenir l’impulsion qu’il a eu à parler 8.
+Pour synthétiser : Les hommes se croient libres, pour la seule raison qu’ils sont conscients de leurs actions et ignorants des causes par quoi elles sont déterminées 9.
+
+
+La célèbre proposition 6 affirme le principe du conatus :
+
+Chaque chose, autant qu’il est en elle, s’efforce de persévérer dans son être 10.
+Toute chose en effet s’oppose à ce qui pourrait venir supprimer son existence. Or cet effort, cette tendance fondamentale en tout être, n’est rien d’autre que la volonté (lorsqu’on le considère du point de vue de l’esprit), ou le désir, (lorsqu’on le considère à la fois du point de vue de l’esprit et du corps).
+
+Spinoza utilise indistinctement les termes « appétit » ou « désir » mais fait cette précision terminologique : le désir est un appétit dont l’homme est conscient : Le Désir est l’appétit avec la conscience de l’appétit 1.
+
+Cet effort, autrement dit le désir, est si fondamental qu’il n’est rien d’autre que l’essence même de l’homme 2.
+
+Si nous désirons ou voulons une chose, c’est n’est pas parce que nous la jugeons bonne :
+
+Au contraire, si nous jugeons qu’une chose est bonne, c’est précisément parce que nous nous y efforçons, nous la voulons, ou aspirons à elle, ou la désirons 3.
+
+L’esprit peut pâtir de grands changements et passer à une perfection tantôt moindre, tantôt plus grande. C’est ici que l’on trouve la célèbre définition de la joie spinoziste :
+
+Par Joie, j’entendrai donc une passion par laquelle l’Esprit passe à une plus grande perfection 4
+La tristesse désigne l’affect contraire.
+
+Les trois affects primaires sont pour Spinoza l’allégresse, la douleur, et le désir (les deux premiers représentent la joie et la tristesse, mais rapportés à la fois à l’esprit et au corps).
+
+De la définition spinoziste de la joie se déduit celle de l’amour : L’Amour n’est rien d’autre qu’une Joie qu’accompagne l’idée d’une cause extérieure, et la Haine, rien d’autre qu’une Tristesse qu’accompagne l’idée d’une cause extérieure 5.
+
+
+Spinoza définit un grand nombre d’affects, qui naissent de la composition des trois affects primitifs : l’espérance, la crainte, le désespoir, l’émulation, etc. et propose un certain nombre de lois psychologiques. Par exemple : Si nous imaginons que quelqu’un aime ou désire ou a en haine quelque chose que nous aimons, désirons, ou avons en haine, par là même, nous aimerons, etc. la chose avec plus de constance 6.
+
+L’auteur de l’Ethique propose pour conclure une définition générale des affects dans laquelle il répète que le Désir est l’essence même de l’homme, en tant qu’on la conçoit comme déterminée, par suite d’une quelconque affection d’elle-même à faire quelque chose 7, désir étant entendu au sens le plus large, incluant appétits et volontés.
+
+Livre IV : de la servitude humaine ou : des forces des affects
+
+La servitude désigne l’impuissance de l’homme à maîtriser ou contrarier les affects. Spinoza consacre ce livre à l’étude de ce phénomène, ainsi qu’à l’étude de ce qu’ont les affects de bien et de mal.
+
+Spinoza commence par examiner l’origine de la formation en nous des concepts de perfection, de bien et de mal.
+
+Le concept de perfection naît du fait de vouloir réaliser quelque chose et d’atteindre ce but. C’est toujours par rapport à un but que l’on détermine la perfection de quelque chose :
+
+Par exemple si quelqu’un a vu quelque chose d’inachevé et a su que le but de l’Auteur de cette œuvre était de construire une maison, il dira que la maison est imparfaite, et parfaite au contraire sitôt qu’il verra l’œuvre parvenue à la fin que son Auteur avait décidé de lui donner 8.
+En revanche si on ignore le but de l’auteur de l’œuvre, on ne saura si elle est parfaite ou non.
+
+
+Puis les hommes forgent des concepts universels, par exemple ceux de tours, de maisons, etc. et chacun appela parfait ce qu’il voyait convenir avec l’idée universelle de la chose, idées qu’ils tiennent pour les modèles des choses. Ils pensent que la nature elle-même les a en vue et se les propose pour modèles. Si la chose ne convient pas au concept modèle, ils croient alors que la nature elle-même a fait défaut ou a péché 9.
+
+Or Spinoza a montré dans l’appendice du livre I que la nature n’agit pas à cause d’une fin, que le finalisme est un préjugé, et que le déterminisme à l’œuvre dans la nature consacre bien la relation de cause à effet, mais pas la notion de cause finale.
+
+Il est faux donc de croire que la nature soit parfaite ou imparfaite puisqu’elle ne vise pas un but ; les notions de perfection et d’imperfection ne sont que des fictions introduites par les hommes.
+
+De même bien et mal ne désignent pas non plus rien de positif dans les choses, mais rien d’autre que des manières de penser ou notions que nous formons de ce que nous comparons les choses entre elles 1.
+
+
+Pourtant, il faut conserver ces termes, pour pouvoir former une idée de la nature humaine.
+
+Ce pourquoi Spinoza commence le livre IV en définissant ainsi les concepts moraux : Par bien et mal, j’entendrai ce que nous savons avec certitude être un moyen d’approcher ou de s’éloigner du modèle de la nature humaine que nous nous proposons 2.
+
+De ce fait, la notion de bien ne recouvre d’autre signification que celle d’utilité : Par bien, j’entendrai ce que nous savons avec certitude nous être utile 3, ou encore de ce qui nous est bénéfique :
+
+Nous appelons bien ou mal ce qui sert ou bien nuit à la conservation de notre être 4.
+Enfin, Spinoza rapproche les notions de bien et de mal de celles de joie et de tristesse, telles qu’il les a définies au livre précédent, comme passage à une perfection plus ou moins grande : La connaissance du bien et du mal n’est rien d’autre que l’affect de joie ou de tristesse, en tant que nous en sommes conscients 5.
+
+
+Notons que c’est dans la proposition 4 de ce livre que l’on trouve la célèbre assimilation de Dieu à la nature : […] la puissance même de Dieu, autrement dit de la Nature 6 (Deus sive natura).
+
+
+Ce qui fait la servitude humaine, c’est que nous ne pouvons, en vertu du déterminisme, maîtriser un affect, ou y échapper, de par notre volonté. En fait, un affect ne peut être contrarié ou supprimé que par un affect contraire et plus fort que l’affect à contrarier 7.
+
+Spinoza consacre plusieurs propositions d’ordre psychologiques à préciser la manière dont un affect s’empare de nous. Par exemple : Un affect par rapport à une chose que nous imaginons comme nécessaire est toutes choses égales d’ailleurs, plus intense qu’à l’égard d’une chose possible ou contingente, autrement dit non nécessaire 8.
+
+
+Spinoza annonce à partir de la proposition 18, qu’il va maintenant montrer ce que la raison prescrit, à savoir quels sont les affects qui conviennent avec les règles de la raison humaine et quels sont au contraire ceux qui leur sont contraires 9.
+
+Or la raison ne demande rien contre la nature, c’est donc elle-même qui demande que chacun s’aime lui-même, recherche ce qui lui est utile, et aspire à tout ce qui augmente notre perfection, et que chacun s’efforce autant qu’il est en lui de conserver son être 10.
+
+Spinoza appelle vertu le fait d’ agir d’après les propres lois de sa nature, et donc le fondement de la vertu est l’effort même pour conserver son être propre 11.
+
+Ce qui nous est le plus utile, c’est ce qui est de même nature que nous. Donc à l’homme rien de plus utile que l’homme 12. De ce fait, l’homme que gouverne la raison, c’est-à-dire celui qui recherche son propre bonheur, n’aspire à rien d’autre qu’au bonheur général de tous les hommes.
+
+Spinoza remet donc en cause le principe selon lequel agir vertueusement est agir de manière désintéressée. L’égoïsme, bien compris, est le fondement de l’altruisme, pourrait-on dire, puisque autrui nous est foncièrement utile.
+
+
+Si tous les hommes vivaient sous la conduite de la raison, chacun agirait selon le souverain droit de nature, c’est-à-dire ferait tout ce qui suit de la nécessité de sa nature ; mais à cause des affects, qui surpassent la puissance ou vertu de l’homme, ils se trouvent entraînés diversement, contraires les uns aux autres 13.
+
+Une solution est que les hommes renoncent à leur droit naturel et s’assurent mutuellement de ne pas se nuire, en entrant en société.
+
+Puisqu’en effet un affect ne peut être contrarié que par un affect plus fort, on résistera à un affect (désir de voler quelqu’un) par un autre affect (la crainte d’un dommage plus grand, à savoir celui d’une punition par la société).
+
+
+Rappelons que ce livre IV est consacré à l’exposé des raisons de la servitude humaine, l’homme étant assujetti à la puissance des affects. Or dès ce livre IV, Spinoza présente les moyens par lesquels l’homme peut conquérir sa liberté, en luttant contre la puissance des affects.
+
+Il suffit d’utiliser cette puissance même des affects en tournant celle des uns contre celle des autres, afin qu’ils se neutralisent.
+
+
+Spinoza présente un second moyen de se libérer : A toutes les actions auxquelles nous détermine un affect qui est une passion, nous pouvons être déterminés sans lui par la raison 1.
+
+Notre raison peut créer en nous certains désirs, et ceux-ci, en tant qu’ils procèdent de la raison nous détermineront à faire ce qui est le mieux pour nous, autrement dit ce qui se conçoit adéquatement par la seule essence de l’homme 2. En effet, un Désir qui naît de la raison ne peut être excessif 3.
+
+Nous pouvons donc nous libérer des affects, en en créant d’autres plus adaptés ou plus utiles, par la raison.
+
+
+La peur ne fait pas partie des affects raisonnables : Qui est mené par la crainte, et fait le bien pour éviter le mal, n’est pas mené par la raison 4.
+
+Agir par la raison est agir par joie ou désir. Ce sont les superstitieux qui cherchent à contenir le mal par la peur de la mort. Ainsi, le sage est celui qui a dépassé cette peur de la mort, et qui n’y accorde même aucune pensée :
+
+L’homme libre ne pense rien moins qu’à la mort, et sa sagesse est une méditation non de la mort, mais de la vie 5.
+Enfin, il s’agit de supporter d’une âme égale ce qui nous arrive, y compris les événements tristes, que nous n’avons pas pu éviter du fait de notre puissance limitée : La puissance de l’homme est extrêmement limitée et infiniment surpassée par la puissance des causes extérieures 6. On peut rapprocher ce dernier point (subir, se résigner, sans passion négative –tristesse, peur, envie…) du stoïcisme.
+
+Livre V : de la puissance de l’intellect, autrement dit, de la liberté humaine
+
+Ce livre se consacre à l’autre partie de l’Ethique, qui porte sur la manière ou voie qui mène à la liberté 7.
+
+
+Spinoza a montré la puissance des affects : à la différence de ce que pensaient les stoïciens, on n’a pas sur nos affects un empire absolu 8.
+
+Spinoza critique la théorie cartésienne de la glande pinéale et des esprits animaux, telle que Descartes la développe dans les Passions de l’âme. Ce n’est donc pas dans le libre-arbitre cartésien que se situe la réelle liberté de l’homme.
+
+C’est ailleurs qu’il faut chercher la manière dont on peut se libérer, de la puissance des affects.
+
+
+Tout d’abord, un affect est toujours lié à l’idée d’une cause extérieure. Si donc on parvient à supprimer en soi l’idée de cette cause extérieure, nous sommes libérés de l’affect en question : Si nous éloignons une émotion de l’âme, autrement dit un affect de la pensée d’une cause extérieure, et la joignons à d’autres pensées, alors l’Amour ou la Haine à l’égard de la cause extérieure, ainsi que les flottements de l’âme qui naissent de ces affects seront détruits 9.
+
+Puisque l’amour ou la haine viennent de la joie ou de la tristesse qu’accompagne l’idée d’une cause extérieure, il suffit de ne plus penser à cette cause extérieure (l’être aimé d’un amour déçu ou une personne que l’on déteste) pour que ces passions négatives ne nous affectent plus.
+
+D’autre part, il suffit de se former une idée claire et distincte de l’objet d’une de nos passions pour qu’il cesse d’être une passion : Un affect qui est une passion est une idée confuse 1.
+
+Pour prendre un exemple simple, sinon simpliste : supposons que je me meure d’amour pour une personne inaccessible ; il suffit de se former une idée réelle de l’être aimé pour que je cesse de la désirer, en tout cas si intensément. Ou encore : il suffit que je prenne conscience de mon amour (et que je cesse de le subir inconsciemment) pour que celui-ci disparaisse :
+
+Un affect est d’autant plus en notre pouvoir, et l’esprit en pâtit d’autant moins qu’il est plus connu de nous 2.
+
+C’est de la connaissance que provient par conséquent la liberté : Telle est donc la chose à quoi il faut avant tout s’appliquer, à connaître clairement et distinctement, autant que faire se peut, chacun de nos affects 3.
+
+C’est en effet un seul et même désir qui amène l’homme à agir ou pâtir, selon qu’il procède d’une idée adéquate ou inadéquate. Formons des idées adéquates de tous nos désirs, et nous n’en pâtirons plus, mais nous serons acteur de nos désirs.
+
+Cela est fondamental, car pour Spinoza, ainsi qu’il le montre dans la proposition 40 : Plus chaque chose a de perfection, plus elle agit et moins elle pâtit, et inversement 4.
+
+Celui qui parvient à la connaissance parvient à la liberté, mais également à l’amour : Qui se comprend clairement et distinctement soi-même aime Dieu, et d’autant plus qu’il se comprend plus soi-même, ainsi que ses affects 5.
+
+
+Dieu est pour sa part exempt de joie et de tristesse (car il ne peut passer à une plus ou moins grande perfection), et par suite d’amour ou de haine : Dieu à proprement parler n’aime personne et ne hait personne 6.
+
+Pour comprendre Dieu, il faut comprendre les choses singulières. Mais si l’on atteint Dieu par le troisième mode de connaissance, tel qu’il a été défini antérieurement, c’est-à-dire par la raison, du point de vue de l’éternité, l’amour qui en naît est également nécessairement éternel 7.
+
+C’est ce troisième genre de connaissance qui permet donc d’atteindre le bonheur et la liberté complète.
+
+Spinoza attribue tout de même à Dieu un amour intellectuel infini de lui-même, semblant contredire ce qui précède. Or l’amour intellectuel de l’esprit envers Dieu est une partie de l’Amour infini dont Dieu s’aime lui-même 8.
+
+
+L’esprit humain n’est pas détruit en même temps que le corps, il en reste quelque chose, la part éternelle de l’Esprit : l’intellect, marque de notre perfection parce que c’est par lui que nous agissons. Ce qui périt est l’imagination, par laquelle seule nous sommes dits pâtir 9.
+
+
+Le bonheur n’est pas la récompense de la vertu, c’est la vertu même : Ce n’est pas parce que nous contrarions les plaisirs lubriques que nous jouissons de la [béatitude] ; mais au contraire c’est parce que nous jouissons d’elle que nous pouvons contrarier les plaisirs lubriques 10.
+
+Pour synthétiser : La béatitude consiste dans l’Amour envers Dieu, qui naît du troisième genre de connaissance, et qui se rapporte à l’Esprit en tant qu’il agit 11.
+
+
+Spinoza conclut l’Ethique en distinguant le sage de l’ignorant :
+
+D’où il appert combien le Sage est fort et vaut mieux que l’ignorant, qui agit par le seul appétit lubrique. L’ignorant en effet, outre que les causes extérieures l’agitent de bien des manières, et que jamais il ne possède la vraie satisfaction de l’âme, vit en outre presque inconscient et de soi, et de Dieu, et des choses, et dès qu’il cesse de pâtir, aussitôt il cesse aussi d’être.
+Tandis que le Sage conscient de soi, et de Dieu, et des choses avec une certaine nécessité éternelle, jamais il ne cesse d’être 12.
+
+L’éthique : Une oeuvre systémique sur l’homme et Dieu
+
+L’Ethique est une œuvre ambitieuse et protéiforme. Ambitieuse par son sujet car Spinoza critique l’ensemble des conceptions philosophiques traditionnelles de Dieu, de l’être humain et de l’univers. Multifacette également de par sa méthode car Spinoza entend démontrer la vérité sur Dieu, la nature, l’homme, la religion et la vie bonne (hormis la politique). En effet, Spinoza procède par définitions, axiomes, scolies et corolaires, autrement dit de manière mathématique. Cette méthode “scientifique” vise à imposer la logique mathématique dans le domaine de la métaphysique, trop souvent réduite à de simples affirmations, faisant d’elle, comme le dira Kant dans la Critique de la Raison Pure, un champ de bataille.
+
+Même si l’Ethique de Spinoza couvre la théologie, l’anthropologie ou encore l’ontologie et la métaphysique, le philosophe hollandais a choisi le terme « éthique » car il pose que le bonheur provient d’une libération à l’égard de la superstition et des passions. En d’autres termes, l’ontologie n’est vue que comme un moyen pour démystifier l’univers et permettre à l’homme de vivre selon la raison.
+
+Résumé de la Première partie de L’Ethique de Spinoza : Dieu ou la Nature
+
+« Par Dieu, j’entends un être absolument infini, c’est-à-dire une substance constituée d’une infinité d’attributs, dont chacun exprime une essence éternelle et infinie ». Dieu est l’infini, nécessairement existant (c’est-à-dire cause de lui-même), substance unique de l’univers. Il n’y a qu’une seule substance dans l’univers, c’est Dieu, et tout ce qui est, est en Dieu.
+
+Voici une synthèse des propositions :
+
+Proposition 1 : Une substance est antérieure en nature à ses affections.
+
+Proposition 2 : Deux substances ayant des attributs différents n’ont rien en commun avec une autre.
+
+Proposition 3 : Si les choses n’ont rien en commun avec une autre, l’un d’eux ne peut pas être la cause de l’autre.
+
+Proposition 4 : Deux ou plusieurs choses distinctes se distinguent les uns des autres, soit par une différence dans les attributs [les natures ou essences] des substances ou par une différence dans leurs affections [leurs propriétés accidentelles].
+
+Proposition 5 : Dans la nature, il ne peut y avoir deux ou plusieurs substances de même nature
+
+Proposition 6 : Une substance ne peut pas être produite par une autre substance.
+
+Proposition 7 : Il appartient à la nature d’une substance d’exister.
+
+Proposition 8 : Toute substance est nécessairement infinie.
+
+Proposition 9 : A proportion de la réalité ou de l’être que possède chaque chose, un plus grand nombre d’attributs lui appartiennent
+
+Proposition 10 : Chacun des attributs d’une même substance doit être conçu par soi.
+
+Proposition 11 : Dieu, c’est-à-dire une substance constituée par une infinité d’attributs dont chacun exprime une essence éternelle et infinie, existe nécessairement
+
+Proposition 12 : De nul attribut d’une substance il ne peut être formé un concept vrai d’où il suivrait que cette substance pût être diviséeDe nul attribut d’une substance il ne peut être formé un concept vrai d’où il suivrait que cette substance pût être divisée
+
+Proposition 13 : Une substance absolument infinie est indivisible.
+
+Proposition 14 : Nulle substance en dehors de Dieu ne peut être donnée ni conçue.
+
+Cette preuve que Dieu est infini, nécessaire et sans cause, procède en trois étapes simples. Premièrement, Spinoza établit que deux substances ne peuvent partager un attribut ou une essence. Ensuite, il prouve qu’il y a une substance avec des attributs infinis. Il s’ensuit, par conclusion, que l’existence de cette substance infinie s’oppose à l’existence de toute autre substance. Car si il devait y avoir une deuxième substance, il faudrait avoir un attribut ou de l’essence. Mais puisque Dieu a tous les attributs possibles. Par conséquent, il ne peut y avoir, en dehors de Dieu, aucune autre substance.
+
+Si Dieu est la seule substance, alors tout le reste des existants sont en Dieu. Ces choses qui sont dans les attributs de Dieu, Spinoza les appelle des modes.
+
+Quelles sont les conséquences de cette conception de Dieu ? Dieu est vu par Spinoza comme un Dieu immanent, une cause universelle qui assure la pérennité de tout ce qui existe. Ce qui constitue une rupture avec le Dieu de la Révélation, lequel est présenté comme une cause transcendante au monde. Chez Spinoza, le monde existe nécessairement car la substance divine détient l’attribut de l’existence, alors que dans la tradition judéo-chrétienne, Dieu aurait pu ne pas créer le monde.
+
+Proposition 29 : Il n’est rien donné de contingent dans la nature, mais tout y est déterminé par la nécessité de la nature divine à exister et à produire quelque effet d’une certaine manière
+
+Il ya, cependant, des différences dans la façon dont les choses dépendent de Dieu. Certaines parties de l’univers sont régies nécessairement et directement par Dieu : ce sont les «modes infinis », dont font partie les lois de la physique, les vérités de la géométrie, les lois de la logique. Les choses particulières et individuelles sont causalement plus éloignées de Dieu. Les modes finis sont des affections des attributs de Dieu.
+
+La métaphysique de Spinoza sur Dieu est parfaitement résumée par la phrase suivante : “Dieu, ou la Nature”, “Deus, sive Natura” en latin.
+
+Chez Spinoza, la nature a deux faces : l’une active, l’autre passive. Tout d’abord, il y a Dieu et ses attributs, à partir desquels tout le reste suit : il s’agit de la Natura natura, “Nature naturante”. Le reste, ce qui est affecté par Dieu et ses attributs, est Natura Naturata, “nature naturée”.
+
+Ainsi, l’intuition fondamentale de Spinoza dans le premier livre est que la nature est un tout indivisible, sans cause, substantielle. En dehors de la nature, il n’y a rien, et tout ce qui existe est une partie de la nature. Cette nature unique, unifiée et nécessaire est ce que Spinoza appelle Dieu. En raison de la nécessité inhérente à la nature, il n’y a pas de téléologie dans l’univers : rien n’a de fin. L’ordre des choses ne fait que suivre Dieu avec un déterminisme inviolable. Tous les discours sur les desseins de Dieu, ses intentions ou ses buts sont justes des illusions anthropomorphiques.
+
+Deuxième partie de L’Ethique de Spinoza : L’Homme
+
+Dans la deuxième partie, Spinoza se tourne vers l’origine et la nature de l’être humain. Les deux attributs de Dieu dont nous avons connaissance sont l’extension et la pensée.
+
+Si Dieu est en effet la matière, cela ne signifie pas que Dieu ait un corps. En effet, Dieu n’est pas la matière en soi, mais une extension de son essence. Car l’extension et la pensée sont deux essences distinctes qui n’ont absolument rien en commun. Les modes (ou expressions d’extension) sont des organes physiques; les modes de pensée sont des idées. Parce que l’extension et de la pensée n’ont rien en commun, les deux royaumes de la matière et de l’esprit sont causalement des systèmes fermés et hétérogènes.
+
+L’une des questions pressantes de la philosophie du XVIIe siècle, et peut-être l’héritage le plus célèbre du dualisme de Descartes, est le problème du rapport de deux substances radicalement différentes telles que l’esprit et le corps, la question de leur union et de leur interaction. Spinoza, en effet, nie que l’être humain est une union de deux substances. L’esprit humain et le corps humain sont deux expressions d’une seul et même chose: la personne. Et parce qu’il n’y a aucune interaction entre l’esprit et le corps, le mind-body problem (rapport corps/esprit) ne se pose pas.
+
+Troisième partie de L’Ethique de Spinoza : La Connaissance
+
+L’esprit humain, comme Dieu, contient des idées. Spinoza se livre à une analyse détaillée de la composition de l’être humain, car son objectif est de montrer de quelle manière l’être humain est une partie de la nature, contrairement à ceux qui pensent l’homme comme un empire dans un empire. Cela a de graves implications éthiques. Premièrement, cela implique que l’être humain n’est pas doté de la liberté. Parce que notre esprit et les événements dans notre esprit sont des idées qui existent au sein de la série causale des idées qui découlent de Dieu, nos actions et nos volontés sont nécessairement déterminées, à l’instar des autres événements naturels. « L’esprit est déterminé à vouloir ceci ou cela par une cause qui est également déterminée par un autre, et ce à nouveau par une autre, et ainsi à l’infini » (voir toutes les citations de Spinoza)
+
+Selon Spinoza, la nature est toujours la même, et son pouvoir d’agir est partout le même. Nos affects, notre amour, nos colères, nos haines, nos envies, notre orgueils, sont régis par la même nécessité.
+
+Nos affects sont divisés en actions et en passions. Lorsque la cause d’un événement réside dans notre propre nature, plus particulièrement, nos connaissances ou idées adéquates, il s’agit alors d’une action. Mais lorsque quelque chose se passe mais que la cause est inadéquate (en dehors de notre nature), alors nous sommes passifs. Selon que l’esprit agit ou subit, Spinoza affirme que l’esprit augmente ou diminue sa capacité d’être. Il appelle le conatus, sorte d’inertie existentielle, notre tendance à persévérer dans l’être.
+
+La liberté spinoziste consiste ainsi à rejeter les mauvaises passions, celles qui nous rendent passifs, au profit des passions joyeuses, celles qui nous rendent actifs, et par conséquent autonomes. Les passions bonnes sont liées à la connaissance, somme des idées adéquates emmagasinées par l’homme. En d’autres termes, il faut se libérer de notre dépendance à l’égard des sens et de l’imagination, de ce qui nous affecte et s’appuyer autant que possible sur nos facultés rationnelles.
+
+Ainsi la joie accroît notre puissance d’agir. Toutes les émotions humaines, dans la mesure où elles sont des passions, sont dirigées vers l’extérieur. Nous cherchons ou fuyons les choses extérieures dont nous attribuons la cause à la joie ou à la tristesse. Le sujet selon Spinoza est ainsi ouvert sur le monde, affecté par les objets et évènements extérieurs, bref pétri du monde, loin du sage stoïcien reclus dans sa tour d’ivoire philosophique.
+
+L’Ethique de Spinoza : La Vertu et le Bonheur
+
+La vertu, chez Spinoza, est le chemin d’accès au bonheur. En effet, la vertu consiste à vivre selon l’entendement, lequel vise à augmenter notre connaissance et notre compréhension de la nature. L’entendement vit selon le conatus et recherche ce qui est bon pour nous. La connaissance ultime, ou troisième genre de connaissance, désigne la connaissance de l’essence des choses, non pas sous leur dimension temporelle, mais sous l’aspect de l’éternité. Au final, c’est la connaissance de Dieu qui conduit à la béatitude, finalité de l’homme.
+
+La théorie éthique de Spinoza n’est pas sans similitude avec le stoïcisme, qui affirme que les évènements du monde nous échapper, seul notre regard sur la fatalité peut nous libérer de la tristesse. Le sage spinoziste a compris qu’il était partie intégrante de la nature et il s’en satisfait. Le sage est par conséquent libre et autonome car il accompagne la nature et s’y intègre parfaitement.
+
+La première partie de l’Éthique, intitulée « De Dieu », énonce que Dieu est l’unique substance, constituée d’une infinité d’attributs – parmi lesquels ceux que nous connaissons, la pensée et l’étendue – et que tout ce qui existe dans l’univers est formé de modifications (le terme « technique » est mode) de cette substance (c’est-à-dire de ses attributs). Ce Dieu n’est pas le dieu des religions révélées, il ne crée pas par libre-arbitre un monde qu’il transcende. Il est le lieu de lois nécessaires et – son essence étant puissance – il produit nécessairement une infinité d’effets. De même, chaque chose à son tour produit des effets. « Rien n’existe dans la nature de quoi ne suive quelque effet », comme l’énonce la dernière proposition d’Éthique 1.
+Ce qui est dit là est démontré, mais pas à partir de rien. La radicalité du raisonnement spinoziste ne consiste pas à commencer sans présupposés. Au contraire, si on regarde les axiomes et définitions, on se rend compte qu’ils supposent acquise la différence entre le « lecteur philosophe » et celui qui en reste à ses préjugés. Les énoncés des premières pages n’ont de sens que pour qui a découvert que la nature est régie par des lois, que les choses ont des causes, et que les phénomènes constatés dans le monde sont unis dans ces causes et ces lois. C’est à cette condition seulement que les termes de « substance » et de « mode » ont un sens. L’idée de substance rend compte de cette prise de conscience de la légalité du monde ; le chemin vers l’idée de substance unique est celui qui construit l’unité de ces lois de la nature.
+La notion d’attribut a suscité de nombreux débats chez les commentateurs. Certains ont voulu y voir un degré d’être inférieur à la substance (on aurait alors une hiérarchie : substance, attributs, modes). Mais Spinoza dit clairement que les attributs constituent l’essence de la substance et non pas une dégradation de celle-ci. Ils sont la même chose que la substance (« Dieu, c’est-à-dire tous les attributs de Dieu », E 1, 19; cf. aussi E 1, 4, dém). Mais pourquoi distinguer deux termes, si c’est pour dire la même chose ? Parce que, comme chez Descartes, l’attribut est ce par quoi la substance est connue : « J’entends par attribut ce que l’entendement perçoit d’une substance comme constituant son essence » (E 1, déf 4). Il faut ici écarter deux autres contresens possibles, dont le second a eu une longue carrière : a) cela ne signifie pas que la substance « en elle-même»  serait inconnaissable ; connaître l’attribut, c’est précisément la connaître telle qu’elle est ; b) cela ne signifie pas non plus que les attributs sont de simples « points de vue » sur la substance. Ils sont ce qui la constitue réellement. Lorsque Spinoza parle d’entendement, ce n’est pas pour diminuer le degré d’objectivité de la connaissance. Au contraire : cela revient à dire que, lorsque nous connaissons Dieu de manière adéquate, nous le connaissons en lui-même, tel qu’il se connaît (d’ailleurs, lorsqu’il dit ici « entendement », il ne précise pas s’il s’agit de l’entendement humain ou de l’entendement divin). Il n’y a pas de reste, pas de mystère. L’univers dans son principe est totalement intelligible. C’est la première leçon d’Éthique 1.
+La seconde leçon, c’est que comprendre, c’est comprendre par les causes, parce qu’être c’est être cause. La connexion étroite entre substance et mode fait que toutes les choses sont animées d’une puissance qui est directement la puissance divine. Dieu lui-même n’est Dieu qu’en se modalisant, et chaque mode n’est mode qu’en produisant des effets.
+A la fin de cette première partie, un appendice entreprend d’exposer la principale racine des préjugés qui empêchent les hommes de comprendre ce qui vient d’être exposé. Il s’agit d’une double illusion : le libre-arbitre et la finalité. En même temps autre chose apparaît, que les critiques ont moins souvent remarqué – la différence entre l’univers où nous sommes causes et effets, et le monde où nous vivons : celui de l’usage, de l’action, de la conscience et du possible. Ce monde n’est pas illusoire, mais il est générateur d’illusions. Néanmoins, nous y demeurons ; c’est ce qu’enseignait déjà le TTP : « Cette considération universelle sur l’enchaînement des causes ne peut nullement nous servir pour former et mettre en ordre nos pensées touchant les choses particulières. Ajoutons que nous ignorons totalement la connexion et l’enchaînement même des choses ; donc pour l’usage de la vie, il vaut mieux – bien plus, c’est indispensable – considérer les choses comme possibles »
